@@ -1,0 +1,23 @@
+# Security Toolkit Requirements
+# No external dependencies - uses only Python standard library!
+
+# Minimum Python version: 3.6+
+# Test with: python --version
+
+# Standard Library Modules Used:
+# - hashlib (hashing)
+# - re (regular expressions)
+# - json (JSON parsing)
+# - string (string operations)
+# - typing (type hints)
+# - dataclasses (data classes)
+# - enum (enumerations)
+# - sys (system operations)
+# - collections (data structures)
+# - math (mathematical functions)
+
+# To run the toolkit:
+# 1. Ensure Python 3.6+ is installed
+# 2. Run: python main.py
+
+# No pip install needed!
